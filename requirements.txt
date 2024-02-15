@@ -1,1 +1,1 @@
-st_supabase_cinnection == 2.14.6
+st_supabase_connection
