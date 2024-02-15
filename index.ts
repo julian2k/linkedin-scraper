@@ -244,7 +244,7 @@ const input = {
                 "id": 17
             }
         ],
-        "count": 10,
+        "count": 40,
         "maxDelay": 5,
         "minDelay": 2,
         "searchUrl": "https://www.linkedin.com/search/results/people/?keywords=building%20something%20new&origin=SWITCH_SEARCH_VERTICAL&sid=CFg",
